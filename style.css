@@ -4,7 +4,7 @@
 
 html, body { min-height: 100%; overflow-x: hidden;}
 
-body {font-family: 'Space Grotesk', sans-serif; font-weight:400; color: #eceff1; background: linear-gradient(#222233, #111122); }
+body {font-family: 'Space Grotesk', sans-serif; font-weight:400; color: #eceff1; background: linear-gradient(#9d4edd, #4cc9f0); }
 
 a { color: #78909c; text-decoration: none; }
 
@@ -39,13 +39,13 @@ main dd {
 
 footer a { 
     font-weight: 500;
-    background:#78909c;
+    background:#3a0ca3;
     color:white;
     padding:.5rem 1.5rem;
     border-radius: 1.5rem;
 }
 
 footer a:hover { 
-    background:#78909c;
-    color:#222233;
+    background:#f72585;
+    color:#3a0ca3;
 }
